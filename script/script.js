@@ -63,8 +63,8 @@ $(document).ready(function () {
   // Make 1 API call and give lat/lon as argument
   $.getJSON("http://api.openweathermap.org/data/2.5/weather?lat=" + lat + "&lon=" + lon + "&APPID=40fa0a20c108fc69e5a2dd3b842723a1", function (data) {
     userLocData = data;
+    temp = (userLocData.main.temp - 273.15 );
     changeBg(userLocData);
-    temp = 0;
   });
 });
 

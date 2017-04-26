@@ -4,6 +4,7 @@ html {
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+    font-family: Quicksand;
 }
 
 .container-fluid {
@@ -24,7 +25,6 @@ html {
     height: 200px;
     padding: 20px 0px;
     position: absolute;
-    font-family: Quicksand;
 }
 
 .weatherdiv .weathericon {
@@ -37,7 +37,6 @@ html {
 
 .temp {
     padding: 150px 0px;
-    font-family: Quicksand;
     color: white;
 }
 
