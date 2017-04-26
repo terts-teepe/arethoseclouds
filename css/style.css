@@ -6,19 +6,47 @@ html {
     background-size: cover;
 }
 
+.container-fluid {
+    text-align: center;
+}
 
-.quotediv {
-    background-color: white;
-;
-    width: 300px;
+.brand {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px 20px;
+}
+
+.weatherdiv {
+    background: rgba(0,0,0,0.3);
+    margin: auto;
+    width: 100%;
     height: 200px;
-    border-radius: 10px;
-    padding: 20px;
+    padding: 20px 0px;
+    position: absolute;
+    font-family: Quicksand;
+}
+
+.weatherdiv .weathericon {
+    display: inline-block;
+    margin-top: 90px;
+    height: 220px;
+    width: 220px;
+    opacity: 1;
+}
+
+.temp {
+    padding: 150px 0px;
+    font-family: Quicksand;
+    color: white;
 }
 
 button {
     background-color: white;
-    float: right;
+    position: absolute;
+    margin: auto;
+    bottom: 0;
+    margin-bottom: 50px;
 }
 
 .dark-primary-color    { background: #455A64; }
