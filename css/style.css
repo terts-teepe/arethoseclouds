@@ -40,12 +40,9 @@ html {
     color: white;
 }
 
-button {
-    background-color: white;
-    position: absolute;
-    margin: auto;
-    bottom: 0;
-    margin-bottom: 50px;
+.metricbutton {
+    height: 50px;
+    width: 50x;
 }
 
 .dark-primary-color    { background: #455A64; }
