@@ -17,7 +17,6 @@
 
 I'm making Are Those Clouds?! to practice with native JS in the browser and API's.
 
-=======
 ## Usage
 
 Download and hack away! :-)
