@@ -1,19 +1,29 @@
-#Are Those Clouds?!
+# Are Those Clouds?!
 
-## Synopsis
-Are Those Clouds?! is a simple web application designed to give you the local weather. The background switches based on the weather and you can toggle between Fahrenheit and Celsius. It uses the Open Weather API. 
+![banner](https://s6.postimg.org/d7u0nquzl/arethosecloudsbanner.png)
 
-## Motivation
+[![standard-readme compliant](https://img.shields.io/badge/standard--readme-OK-green.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
+
+> Are Those Clouds?! is a simple web application designed to give you the local weather. The background switches based on the weather and you can toggle between Fahrenheit and Celsius. It uses the Open Weather API. 
+
+## Table of Contents
+
+- [Background](#background)
+- [Usage](#usage)
+- [API](#api)
+- [License](#license)
+
+## Background
 I'm making Are Those Clouds?! to practice with native JS in the browser and API's.
 
-## Installation
+## Usage
 
 Download and hack away! :-)
 
-## API Reference
+## API
 
-Open Weather API at http://openweathermap.org/API
+* Open Weather API at http://openweathermap.org/API
 
 ## License
 
-No license.
+MIT © Rishi Speets
