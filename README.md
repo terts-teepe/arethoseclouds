@@ -14,12 +14,10 @@
 - [License](#license)
 
 ## Background
-I'm making Are Those Clouds?! to practice with native JS in the browser and API's.
-=======
-## Motivation
-JS & API practice.
->>>>>>> c3f28324eb6d01b49406c292abf06aeeed333196
 
+I'm making Are Those Clouds?! to practice with native JS in the browser and API's.
+
+=======
 ## Usage
 
 Download and hack away! :-)
