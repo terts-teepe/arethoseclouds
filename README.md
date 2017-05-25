@@ -15,7 +15,7 @@
 
 ## Background
 
-I'm making Are Those Clouds?! to practice with native JS in the browser and API's.
+I'm making Are Those Clouds?! to practice with vanilla JS in the browser and API's.
 
 ## Usage
 
